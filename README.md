@@ -35,7 +35,7 @@ KMK makes it easy to create complex macros, layers, encoder functions, and displ
 ## Bill of Materials (BOM)
 - 1x PCB  
 - 6x Kailh Box White Pro RGB Mechanical Keyboard Switchs
-- 66x Keycaps
+- 6x Keycaps
 - 1x Rotary encoders  
 - 1x SEEED XIAO RP2040
 - 7x 1N4148 Diodes
